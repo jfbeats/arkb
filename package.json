@@ -38,7 +38,7 @@
     "ipfs-http-client": "^49.0.4",
     "ipfs-only-hash": "^4.0.0",
     "mime": "^2.5.2",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "p-retry": "^4.5.0"
   },
   "devDependencies": {
